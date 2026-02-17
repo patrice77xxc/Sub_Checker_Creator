@@ -4,6 +4,3 @@
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjg0NDMsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYzcuNjIwNzIwLnh5eiJ9
-vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImM3LjYyMDcyMC54eXoiLCJwYXRoIjoiLyIsInRscyI6InRscyIsImFscG4iOiIiLCJmcCI6IiIsInNuaSI6ImM3LjYyMDcyMC54eXoiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyJ9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
