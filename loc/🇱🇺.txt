@@ -1,0 +1,8 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443?security=reality&encryption=none&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=039ac6674967d725#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BA
+vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=tcp&security=reality&sni=cdnjs.com&fp=edge&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&sid=039ac6674967d725&flow=xtls-rprx-vision&allowInsecure=1&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BA
+vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=edge&security=reality&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&sid=039ac6674967d725#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BA
+vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&sid=039ac6674967d725&flow=xtls-rprx-vision&allowInsecure=1&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BA
