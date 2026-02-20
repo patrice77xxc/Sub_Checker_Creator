@@ -3,13 +3,22 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@208.103.161.110:443?allowInsecure=1&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@188.114.98.0:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=plcdn14.suio.me#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@172.64.152.23:443/?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@185.18.250.252:443?alpn=h2,http/1.1&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?alpn=h2%2Chttp%2F1.1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?type=ws&security=tls&path=%252Fassignment&sni=www.creationlong.org&fp=chrome&alpn=h2%25252Chttp%25252F1.1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.35:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=423bccc9c13fb509#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
@@ -17,12 +26,9 @@ vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryptio
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.2.126:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&headerType=none&type=tcp&sni=plcdn14.suio.me#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.2.20:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn18.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn14.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.35:443?security=reality&type=tcp&sni=poland.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?security=reality&type=tcp&sni=poland.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://225f5dd9-d885-49ad-8e7f-c0900bbc2230@158.160.105.121:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&headerType=&type=tcp&sni=plcdn14.suio.me#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://4658bc5b-f644-466d-8a90-b8a3fa0faa78@telegram.vpnazadie.store:80?encryption=none&security=none&type=ws&host=vpnazadie.store&path=/vless-ntls#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://f831dbe0-2e90-4b0f-8150-2b21d9baae3f@79.137.175.56:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@104.18.32.47:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://762ac78b-0d9d-4d3e-aee5-e2597e7f3f6d@pol01-rblx01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&sni=hls-svod.itunes.apple.com&spx=/#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

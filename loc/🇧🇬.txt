@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://b469974b-4319-452a-94de-46b314ac1a8e@2.59.218.62:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tF_qba3yih0v2pPCFcwjQXi0HsEevZOGG8hozoS0IEs&sid=fcd2ba5b8fc1&sni=bg.strelkavpn.com&spx=/#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
