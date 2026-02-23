@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://8755e3fe-80c8-4b25-9e22-dfa4e337cc83@213.176.19.56:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yBf3lX9epSJCxp9FxPHDmO-YOnSZKU6E_xLie74FFwU&sid=86358a5f596debb7&sni=knix.fasssst.online#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
-vless://8755e3fe-80c8-4b25-9e22-dfa4e337cc83@213.176.19.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=yBf3lX9epSJCxp9FxPHDmO-YOnSZKU6E_xLie74FFwU&sid=86358a5f596debb7&sni=knix.fasssst.online&spx=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
-vless://8f1d7867-0e6b-42c1-97a9-77250d697893@213.176.19.56:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yBf3lX9epSJCxp9FxPHDmO-YOnSZKU6E_xLie74FFwU&sid=86358a5f596debb7&sni=knix.fasssst.online#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
-vless://8f1d7867-0e6b-42c1-97a9-77250d697893@213.176.19.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=yBf3lX9epSJCxp9FxPHDmO-YOnSZKU6E_xLie74FFwU&sid=86358a5f596debb7&sni=knix.fasssst.online&spx=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
