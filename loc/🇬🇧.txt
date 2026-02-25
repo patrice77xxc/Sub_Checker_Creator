@@ -2,37 +2,25 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ%3D%3D@149.102.149.207:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443/?type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-2.undef.network&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?path=%2Ff2fc2a1f&security=tls&insecure=1&host=hl-freedom-0.undef.network&type=ws&allowInsecure=1&sni=hl-freedom-0.undef.network#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=/f2fc2a1f#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@51.38.64.226:2345?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me%2Fv2Line#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@57.129.133.88:2345?type=tcp&headerType=none&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443/?type=ws&encryption=none&flow=&host=tar.alabama-tigr.info&path=%2Flove&security=tls&sni=tar.alabama-tigr.info&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@57.129.133.88:2345/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443?encryption=none&type=ws&host=uk.dlaparat.ir&path=%2F&security=tls&alpn=http%2F1.1&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://98aec3c3-d957-4363-9933-018e533c7c06@norman.ns.cloudflare.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://98aec3c3-d957-4363-9933-018e533c7c06@190.93.246.236:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.92:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://2a8391ef-383c-4321-ac25-89b50973ab73@217.154.38.156:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w&sid=2e0f#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://98aec3c3-d957-4363-9933-018e533c7c06@104.18.177.46:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://98aec3c3-d957-4363-9933-018e533c7c06@173.245.59.217:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.153.2:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://98aec3c3-d957-4363-9933-018e533c7c06@198.41.222.150:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.244:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.143:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.90:8443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.178.79:8443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.182.52:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://98aec3c3-d957-4363-9933-018e533c7c06@173.245.59.188:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443/?type=ws&encryption=none&flow=&host=tar.alabama-tigr.info&path=/love&security=tls&sni=tar.alabama-tigr.info&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443?encryption=none&type=ws&host=uk.dlaparat.ir&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
