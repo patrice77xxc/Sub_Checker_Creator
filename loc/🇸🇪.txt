@@ -3,42 +3,46 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=%2famd#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://T9BpZIVMNv@chatgpt.com:8443?path=/amd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://T9BpZIVMNv@chatgpt.com:8443?path=%2Famd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?encryption=none&type=ws&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@203.18.98.197:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@95.164.55.242:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@31.56.197.209:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@31.56.227.30:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@31.57.107.41:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@172.232.157.252:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@31.56.197.90:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@185.254.158.87:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.153.230.145:443?type=ws&security=tls&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳+@WangCai2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@93.152.207.163:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@185.230.190.29:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@31.56.227.49:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@172.234.96.64:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@203.18.98.246:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@31.56.197.209:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@31.56.227.30:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@172.232.157.252:2053?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram:@Free_VPN_CH@176.125.240.147:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@192.145.29.62:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@203.18.98.246:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@172.232.129.211:443?path=/sg-lnd&security=tls&encryption=none&insecure=1&host=tn1rr.qzz.io&type=ws&allowInsecure=1&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram:@Free_VPN_CH@176.125.240.51:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram:@Free_VPN_CH@62.182.192.35:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@31.57.107.172:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram:@Free_VPN_CH@193.53.40.219:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@217.60.62.59:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@31.56.204.117:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@31.56.227.82:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@188.215.31.56:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram🇨🇳 @WangCai2@172.232.157.252:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@185.229.221.92:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@31.57.107.13:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram🇨🇳 @WangCai2@31.56.227.49:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://Telegram🇨🇳 @WangCai2@31.57.26.194:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://Telegram:@Free_VPN_CH@193.148.59.145:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
