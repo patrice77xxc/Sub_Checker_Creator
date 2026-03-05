@@ -3,5 +3,9 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sni=a.primarymaster.online&sid=c5b7244c0fef441a#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://36d63b0e-af50-4989-adf0-5a0787948237@217.16.27.208:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E&sid=00&spx=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?encryption=none&security=reality&sni=a.primarymaster.online&fp=chrome&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sid=c5b7244c0fef441a&allowInsecure=1&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://36d63b0e-af50-4989-adf0-5a0787948237@217.16.27.208:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E&sid=00&spx=%2F&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?allowInsecure=1&encryption=none&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?allowInsecure=1&encryption=none&host=rus21.unboundworld.org&path=/ws-vless/&security=tls&sni=rus21.unboundworld.org&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sni=a.primarymaster.online&sid=c5b7244c0fef441a#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
