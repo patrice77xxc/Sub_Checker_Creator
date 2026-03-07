@@ -4,13 +4,8 @@
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@194.156.102.53:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&security=reality&sid=6b374e33af12fd1e&sni=retn.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?encryption=none&host=GitHub.com&path=%2F%2Fconnect&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://a8c37440-95e8-4307-ba26-a466120da59c@slims72-12764.hosted-in.p7d.ir:2052?path=/예쁜+여자친구가+없어서+너무+외로워요?ed=2560&security=none&encryption=none&host=6206fcd9b64bebbc.de1.node.chat2.fun&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&security=reality&fp=chrome&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sni=www.microsoft.com&sid=9c8d68d581a08ea5#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@194.156.102.53:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&security=reality&sid=6b374e33af12fd1e&sni=retn.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@37.139.33.79:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&security=reality&sid=abcd1234&sni=max.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?encryption=none&type=ws&host=GitHub.com&path=%2F%2Fconnect&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?encryption=none&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&security=reality&fp=chrome&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sni=www.microsoft.com&sid=9c8d68d581a08ea5#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
