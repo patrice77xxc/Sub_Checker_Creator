@@ -4,5 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&type=ws&path=%2Fvpnjantit&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?encryption=none&fp=chrome&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&security=reality&sid=a6f7168a7c3e2f77&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
