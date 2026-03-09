@@ -4,9 +4,10 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8VOdGYUHBgp6ICiOIRo0pjCiCbqO7c6e3MQlXprzjjY&security=reality&sid=57b127e1&sni=www.refersion.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8VOdGYUHBgp6ICiOIRo0pjCiCbqO7c6e3MQlXprzjjY&security=reality&sid=57b127e1&sni=www.refersion.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&type=ws&path=%2Fvpnjantit&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?security=tls&encryption=none&type=ws&path=%2fvpnjantit&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.231.75.115:443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.indevs.in&alpn=http%2F1.1&sni=snippet.fgfw.indevs.in&fp=random#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
