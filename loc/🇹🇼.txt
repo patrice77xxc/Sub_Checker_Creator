@@ -4,4 +4,3 @@
 
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e8Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsIm5hbWUiOiI+PkBvbmVjbGlja3ZwbmtleXM6OlRXOjpUVyJ9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.128.110.108:43?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@114.33.57.170:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.ndjp.net&type=ws&headerType=none&host=snippet.fgfw.ndjp.net&path=%2Fdanfeng#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
