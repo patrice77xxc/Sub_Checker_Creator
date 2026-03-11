@@ -4,6 +4,4 @@
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@estonia.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=estonia.scroogethebest.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.4.72.98:8443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=chrome#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://ca789367-2d28-4a94-90ed-e34dc11288a0@144.31.178.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=neb1.stream-room.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
