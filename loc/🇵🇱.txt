@@ -2,23 +2,24 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%252fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=reality&encryption=none&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modily.net&sid=8c01e365#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@144.31.2.248:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=pl.fasti.win&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@195.3.223.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=pl.scroogethebest.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.224:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@5.157.22.12:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=pl.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.ibm.com&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=423bccc9c13fb509#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=reality&encryption=none&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modily.net&sid=8c01e365#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.133.0.133:2053?security=tls&type=ws&path=%2Fdanfeng&host=snippet.sh21.eu.org&sni=snippet.sh21.eu.org&fp=random#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.124:2053?security=tls&type=ws&path=/danfeng&host=lirpeuijr.chinav.indevs.in&sni=lirpeuijr.chinav.indevs.in&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@144.31.2.248:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=pl.fasti.win&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.133.0.135:2053?&security=tls&fp=chrome&sni=snippet.fgfw.ccwu.cc&type=ws&headerType=none&host=snippet.fgfw.ccwu.cc&path=/danfeng#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
