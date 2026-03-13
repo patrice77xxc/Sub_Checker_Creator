@@ -2,18 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRUmtKRnF3d04xN1F6bTdMbzE2QThV@h110vpntr.outlinekeys.net:65262#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6Mzk2NTEsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
-vmess://eyJhZGQiOiI0NS44OS41Mi4yMDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzOTY1MSIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&amp%3Bencryption=none&amp%3Bpath=/&amp%3Bsecurity=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://4c9b944f-6637-4cc2-a71c-5213806084ae@2.56.178.93:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=myGfM3z9UYd_wmFVrrchyiCxe32HiIbXNOmylUPfoH0&security=reality&sid=8e7ac95023d71af6&sni=wikipedia.org&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://76604ade-a555-4c34-b79b-33581c658c41@156.67.63.221:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.ebay.com&fp=chrome&pbk=oKtPZgsIl6HxxIrNiBUwnyEr_y3lJ0Op6cCckZQFuWs&sid=a1b2c3d4#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.180.113.22:443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=/danfeng#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@62.133.63.61:443?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?encryption=none&fp=chrome&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&security=reality&sid=a6f7168a7c3e2f77&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
