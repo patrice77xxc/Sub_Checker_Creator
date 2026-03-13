@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?type=tcp&security=tls&sni=jsygouer.weixin-baidu-qq.com&fp=chrome&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e8IiwiYWRkIjoiZ3RtMS5rdG13YW4ubmV0IiwicG9ydCI6IjEyODg4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImJiZDc4NWRlLTk3OTMtNDQ1My1iZTQwLTZhM2ZkYzQxODIwMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9

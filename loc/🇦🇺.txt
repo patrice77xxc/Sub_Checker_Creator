@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6bwn4e6IiwiYWRkIjoicHViLmFwMjAyNjAyMjguY29tIiwicG9ydCI6IjY0MDAzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE3MzllNzgyLTE2ODItMzhhNS05MTUzLWFhZDA5ZDc3OWFlOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJwdWIuYXAyMDI2MDIyOC5jb20iLCJ0bHMiOiIifQ
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=/danfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.202.113.163:443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.fgfw.ccwu.cc&alpn=http%2F1.1&sni=snippet.fgfw.ccwu.cc&fp=random#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA

@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
