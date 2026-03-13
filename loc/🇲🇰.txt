@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@89.185.82.117:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=mak.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&path=%2f#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%B0

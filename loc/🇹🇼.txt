@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE=@hd117-tw-jd.huidu51.com:46628#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?type=tcp&security=tls&sni=jsygouer.weixin-baidu-qq.com&fp=chrome&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
