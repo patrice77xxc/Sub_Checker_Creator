@@ -4,6 +4,5 @@
 
 vless://38d77ed6-9b7c-423d-a31e-27d1f625ad00@5.129.206.231:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jrKoM3Aiyeo-EnOxDsabEeIddFvfVpP3HOj0_bZ8dio&security=reality&sid=28a69741f82508c7&sni=ru.moktana.digital&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=secdn14.suio.me&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&sni=secdn14.suio.me#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ab144186-c6cf-697b-4abd-985023083105@51.250.102.117:2012/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=BUkGYywmE3zliEbUCmWlUNyreO3Y7uRMgfLeNdM6RmE&sid=6756987a6441a37a#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@5.129.222.172:5443?encryption=none&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://ab9a202a-d0b2-07d0-95e5-d6f373a1ab35@89.208.229.144:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
