@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRWxOWEFhVGY1VTlXdGJKZXJyZ3pQNExm@basic-ru-1.undef.network:35686#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&sni=secdn14.suio.me#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@5.129.222.172:5443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&sni=eh.vk.com&sid=3ef8cdbc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
