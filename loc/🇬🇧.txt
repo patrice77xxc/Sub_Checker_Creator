@@ -2,11 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2ZRWHA3QXlzYXc5RzlTdkVVdFE3@171.22.181.186:16570#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOGQ5Mjg0ODFhMmEwOTg4@94.72.98.25:41684#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA==@149.102.132.180:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA==@149.102.132.180:80#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA==@149.102.132.180:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTc1ODllNTkyNDdkZGRi@57.128.190.238:10012#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UkxVb2FVNG5oOGI4TXFxNw==@149.102.152.25:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
@@ -16,6 +15,6 @@ ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag==@149.102.132.184:80#hamedp71%3A%3A%
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://00000000-0000-4000-8000-000000000000@8.208.10.113:17817?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&security=tls&sni=sub.mot.ip-ddns.com&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://00000000-0000-4000-8000-000000000000@150.107.201.41:6443?security=tls&type=ws&path=/&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://00000000-0000-4000-8000-000000000000@51.195.254.49:20205?security=tls&type=ws&path=/&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
