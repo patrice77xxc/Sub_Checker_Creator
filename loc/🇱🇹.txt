@@ -5,11 +5,9 @@
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.212.179:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.207.194:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.105:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.117:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
