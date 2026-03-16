@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh67wn4e5IiwiYWRkIjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwicG9ydCI6IjYwMjQiLCJ0eXBlIjoiYXV0byIsImlkIjoiOWYxZWNmY2EtMTNhOS00ODhkLWFjODQtYWFlYjczYThkNTc0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImNuMDIuMzY1Y2xvdWQ1ODc4LmNvbSIsInRscyI6IiJ9
 vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=it2.krasivogame.ru&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
