@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f651b25b-0a6a-4954-910f-7c07a1f6f664@31.129.22.64:47910?security=reality&encryption=none&pbk=UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=d194cf18101d98de#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B9
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4e5IiwiYWRkIjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwicG9ydCI6IjYwMzAiLCJ0eXBlIjoiYXV0byIsImlkIjoiOWYxZWNmY2EtMTNhOS00ODhkLWFjODQtYWFlYjczYThkNTc0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImNuMDIuMzY1Y2xvdWQ1ODc4LmNvbSIsInRscyI6IiJ9
