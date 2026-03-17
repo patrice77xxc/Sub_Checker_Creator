@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.105.161.54:12345?&security=tls&fp=random&alpn=http/1.1&sni=snippet.chinat.eu.cc&type=ws&headerType=none&host=snippet.chinat.eu.cc&path=%2Fdanfeng#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://69b73277-99ed-6b7f-f52b-79b98093e7ae@203.69.248.40:16000?security=tls&type=ws&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433&host=dd4973b2.lfree.cn.mt&alpn=h3&sni=dd4973b2.lfree.cn.mt&fp=random#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://69b73277-99ed-6b7f-f52b-79b98093e7ae@203.69.248.40:16000?encryption=none&type=ws&host=dd4973b2.lfree.cn.mt&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433&security=tls&alpn=h3&fp=random&sni=dd4973b2.lfree.cn.mt#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
