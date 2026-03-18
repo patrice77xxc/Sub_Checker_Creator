@@ -2,19 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vmess://eyJhZGQiOiIxMDcuMTg5LjcuMTc2IiwiaG9zdCI6IiIsImlkIjoiNDgxNGI3ZDItYjQ3OC00NDgyLWExYWItNmNlYTM0YjY1ODFiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM0OTcyLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HrSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4etIiwiYWRkIjoiMTA3LjE4OS43LjE3NiIsInBvcnQiOjUzNDY5LCJpZCI6ImJiMDUxYzNhLTQxMmYtNGM2OS05YmI5LTk2MjI0YzkxYzVhZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsImZwIjoiY2hyb21lIiwiYWxwbiI6ImgyLGh0dHAvMS4xIn0
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4etIiwiYWRkIjoiMTA3LjE4OS43LjE3NiIsInBvcnQiOjUzNDY5LCJpZCI6ImM3MGIyNGRhLTUzMjUtNDJjNS04MGJkLTM3NGVkODJkMjc4MSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsImZwIjoiY2hyb21lIiwiYWxwbiI6ImgyLGh0dHAvMS4xIn0
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@cz.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=cz.scroogethebest.com&spx=/#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@s1.eldoradu.ir:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=%2F&security=tls&sni=fz3.sellink.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@cz.denditop.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&security=reality&sid=9c2378562188c3cb&sni=cz.denditop.site&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@188.114.98.44:2053?allowInsecure=1&encryption=none&host=dxg5.sellink.ir&path=%2F&security=tls&sni=dxg5.sellink.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@188.114.98.44:2053?encryption=none&type=ws&host=dxg5.sellink.ir&path=%2F&security=tls&sni=dxg5.sellink.ir#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@s1.eldoradu.ir:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=/&security=tls&sni=fz3.sellink.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@188.114.98.44:2053?allowInsecure=1&encryption=none&host=dxg5.sellink.ir&path=/&security=tls&sni=dxg5.sellink.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@162.159.36.20:2096?allowInsecure=1&encryption=none&host=ca.adobe-connect.top&security=tls&sni=ca.adobe-connect.top&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://18ec0b00-dd10-4427-97c9-96197c0149ca@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@cz.scroogethebest.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=cz.scroogethebest.com&fp=random&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&spx=%2f&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@ch2.fastlanehosting.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

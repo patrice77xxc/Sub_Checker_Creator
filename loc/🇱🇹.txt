@@ -2,7 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&type=tcp&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.56:22230?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&security=reality&sid=a9725715bf4c62ff&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.63:443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
