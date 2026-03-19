@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://69b9d375-c6c1-64f9-c4a9-f409c8586e5b@60.248.139.106:12128?security=tls&type=ws&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433&host=5fcf0b95.mfree.ccwu.cc&alpn=h3&sni=5fcf0b95.mfree.ccwu.cc&fp=random#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://29ff2954-dfea-4d20-8089-059cfa861453@60.248.139.106:10016?&security=tls&fp=chrome&sni=we.090881.xyz&type=ws&headerType=none&host=we.090881.xyz&path=%2Fproducts%2Fproxyip%3DProxyIP.SG.CMLiussss.net%2Fproxyip%3DProxyIP.SG.CMLiussss.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
