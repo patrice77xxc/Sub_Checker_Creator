@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJhZGQiOiIyMTMuMTgzLjU0LjI0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkN2Y1NjY4OC01NmEwLTQ0OGMtYmMwNC1mZDgzYzZhYzE3ZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7fwn4e6Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVUtueFV3UVdQbmdBQW4wWExVY2VTdGpPdERlMzc3bURsNVVHeQ==@2.56.242.6:31348#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@89.23.117.204:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j0Ddyp0DuJqPWWLuDkUzbf3sxY63aSVUOYMMuvBNsgQ&security=reality&sid=e2117a&sni=spb2.frostbot.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
