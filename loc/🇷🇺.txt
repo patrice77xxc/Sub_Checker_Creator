@@ -1,0 +1,10 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://f3e5644e-5937-4909-af88-cc7da1792cda@85.239.34.120:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=barclays.co.uk&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d7554bde-44d0-4466-8f87-0d68740e8951@147.45.153.236:443?encryption=none&fp=chrome&pbk=e1zt8g2cuQ9xfJR_fSrFbvD4gYCJcI0c-WYOMgId7xY&security=reality&sid=3c07801500a8&sni=www.vk.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@89.23.117.204:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j0Ddyp0DuJqPWWLuDkUzbf3sxY63aSVUOYMMuvBNsgQ&security=reality&sid=e2117a&sni=spb2.frostbot.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@109.120.180.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@pass.enigmabot.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://4821536d-26b8-53a1-8b52-6ba7bbcab5cf@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
