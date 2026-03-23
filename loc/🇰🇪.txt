@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?type=tcp&security=reality&encryption=none&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&fp=chrome&sni=amazon.com&sid=2adf17&spx=/&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%AA
+vless://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&security=reality&sid=2adf17&sni=amazon.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%AA
