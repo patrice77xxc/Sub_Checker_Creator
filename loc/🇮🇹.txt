@@ -4,4 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HuSIsImFkZCI6IjQ1LjkyLjcwLjIzNiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
+vless://957a1a2f-25d4-4667-a43c-594ccad9155b@82.202.159.193:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=4ffc99daad0f261f&sni=rbc.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9

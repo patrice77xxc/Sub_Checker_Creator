@@ -7,5 +7,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjg0NDMsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYzcuNjIwNzIwLnh5eiJ9
+vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImM3LjYyMDcyMC54eXoiLCJwYXRoIjoiLyIsInRscyI6InRscyIsImFscG4iOiIiLCJmcCI6IiIsInNuaSI6ImM3LjYyMDcyMC54eXoiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyJ9
