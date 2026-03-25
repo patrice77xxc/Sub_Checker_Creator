@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&sni=yandex.ru&sid=6d38c1f30520&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?mode=auto&path=/&security=reality&encryption=none&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&spx=/&type=xhttp&sni=yandex.ru&sid=6d38c1f30520#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&sni=yandex.ru&sid=6d38c1f30520&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://148c2937-fb6d-07d0-93a8-369b1fbc9791@212.193.156.229:443?encryption=none&type=ws&host=lk-cdn.deploy-assure.ru&path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=lk-cdn.deploy-assure.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
