@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@77.73.67.94:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://b5a1b1f3-3cb6-4eb0-bdd6-77241f797bb8@45.89.190.83:40443?encryption=none&type=grpc&serviceName=max.ru&security=reality&fp=chrome&pbk=_A6MVT9TnnPfZKZ7Zqqag6Z1zy46sMFieoaQcMA03XY&sni=max.ru&sid=57a6#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

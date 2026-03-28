@@ -2,15 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://WF42809561@funky-platypus.rooster465.autos:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://WF42809561@funky-platypus.rooster465.autos:443?allowInsecure=0&sni=funky-platypus.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://WF42809561@funky-platypus.rooster465.autos:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://WF42809561@funky-platypus.rooster465.autos:443?allowInsecure=0&sni=funky-platypus.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://WF42809561@funky-platypus.rooster465.autos:443?sni=funky-platypus.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
@@ -19,12 +20,11 @@ trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assig
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://c01733dd-3e58-4da9-910b-cdd4560295bc@94.103.0.92:2443?encryption=none&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://1cc8480d-b0f2-4756-84bd-d4e5cd9fe345@81.90.17.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&security=reality&sni=github.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn12.melodramaonline.net&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://3b034275-27f8-437d-9ac0-5982708ae143@192.200.160.20:443?encryption=none&type=ws&host=639073677243249982.camry-perma.info&path=%2Fferhbiws%3Fed%3D2560&security=tls&sni=639073677243249982.camry-perma.info#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sni=vk.ru&sid=b5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?security=reality&sni=vk.ru&type=grpc&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://ab1ddafb-9514-40ab-9e4b-a3878f70931d@144.31.1.59:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=pl.sky-vault.top&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?security=tls&encryption=none&sni=plcdn14.melodramaonline.net&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sni=vk.ru&sid=b5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://3b034275-27f8-437d-9ac0-5982708ae143@192.200.160.20:443?encryption=none&type=ws&host=639073677243249982.camry-perma.info&path=%2Fferhbiws%3Fed%3D2560&security=tls&sni=639073677243249982.camry-perma.info#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
