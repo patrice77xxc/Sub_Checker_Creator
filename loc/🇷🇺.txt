@@ -3,5 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://27b1a8d5-6169-43fd-a009-c5fd344bcb2c@95.129.234.165:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f_rci2fprjjzSiFAfiF7GXPSDHCmf6oetM38e8AvQBg&security=reality&sni=max.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@77.73.67.94:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@77.73.67.94:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
