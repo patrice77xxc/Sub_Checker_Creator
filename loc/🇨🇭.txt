@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjE4MC4xNjEuMTIzOjgxMTk=#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
