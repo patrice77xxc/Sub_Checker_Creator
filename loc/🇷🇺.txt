@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@5.23.54.3:49169?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://418ad4b9-d8be-447c-953d-e666fb154685@217.16.27.9:8443?encryption=none&type=grpc&serviceName=UpdateService&security=reality&fp=chrome&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
