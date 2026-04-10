@@ -4,4 +4,3 @@
 
 vmess://eyJhZGQiOiIyMTMuMTgzLjU0LjI0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkN2Y1NjY4OC01NmEwLTQ0OGMtYmMwNC1mZDgzYzZhYzE3ZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7fwn4e6Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://09b81314-7592-4ffb-9773-6351de8a7f74@85.92.111.163:2083?encryption=none&type=grpc&serviceName=UpdateService&security=reality&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sni=ir.ozone.ru&sid=6da16b1335651b38#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@46.149.68.27:2083?encryption=none&type=grpc&serviceName=UpdateService&security=reality&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sni=ir.ozone.ru&sid=6da16b1335651b38#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
