@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://82b5b465-3307-4a25-acef-abd1649bbedf@nl1.samovargate.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
