@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@104.18.12.149:8880?encryption=none&type=httpupgrade&host=prossh.octarpmta.ir&path=%2Fjoin-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@104.18.12.149:8880?path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&security=&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@104.18.12.149:8880?encryption=none&type=httpupgrade&host=prossh.octarpmta.ir&path=%2Fjoin-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
