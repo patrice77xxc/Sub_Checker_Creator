@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://913c6074-a747-492b-a7e9-5abfcad6369d@nl.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=nl.milas.click&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@104.18.12.149:8880?encryption=none&type=httpupgrade&host=prossh.octarpmta.ir&path=%2Fjoin-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
