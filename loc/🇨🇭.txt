@@ -3,6 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjE4MC4xNjEuMTIzOjgxMTk=#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@45.95.232.229:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&sid=edd8887128ea&sni=music.yandex.ru#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@104.18.12.149:8880?encryption=none&type=httpupgrade&host=prossh.octarpmta.ir&path=%2Fjoin-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
