@@ -4,4 +4,5 @@
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://913c6074-a747-492b-a7e9-5abfcad6369d@es.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=es.milas.click&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://913c6074-a747-492b-a7e9-5abfcad6369d@es.milas.click:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=es.milas.click&fp=random&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
