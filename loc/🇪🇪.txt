@@ -4,4 +4,5 @@
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://9037fde7-debb-4fe7-8c73-09f520f3f821@95.85.242.196:59283?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=07a0bc&pbk=oPsbZoI_Ikl-nC6vS2-Va7Fx11FSgAK5buqI3yBbSWE#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
