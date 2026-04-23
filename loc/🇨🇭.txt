@@ -5,4 +5,3 @@
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&spx=%2f&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@172.64.149.54:8443?encryption=none&type=ws&host=Kingdom.turbooo-server.com&path=%2F&security=tls&sni=Kingdom.turbooo-server.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
