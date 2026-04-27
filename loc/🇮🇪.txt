@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://4ccff2bb-b761-40f0-95ec-a58b38862dab@78.17.57.159:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e04qlMREgpP2TmLJ0kzf4tYjnuBMT87k0RuQebPe2Bg&security=reality&sid=6ba85179e30d4fc2&sni=stats.vk-portal.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
