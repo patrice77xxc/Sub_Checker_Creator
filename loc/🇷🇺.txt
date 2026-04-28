@@ -5,13 +5,6 @@
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:7000?security=none&type=ws&host=market.yandex.ru&path=%2fstream#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?security=none&type=ws&host=live.ok.ru&path=%2fv1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@st.xbs54as9c6.ru:7000?encryption=none&type=ws&host=market.yandex.ru&path=%2Fstream&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@ru2.bundo.su:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=stats.vk-portal.net&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
