@@ -2,18 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48801#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48804#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48801#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48804#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?type=ws&host=ubu.okaoclax.me&path=%2Ftrojan-ws&security=tls&sni=ubu.okaoclax.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjowLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIn0
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoic2ctMnphM24ua25vdGljLnNwYWNlIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiI3YjdjMjhlNC1mNTcwLTRiNGUtYmEzMy1mZTI3MWQzZTY4MjgiLCJzbmkiOiJzZy0yemEzbi5rbm90aWMuc3BhY2UiLCJob3N0Ijoic2ctMnphM24ua25vdGljLnNwYWNlIiwicGF0aCI6Ii9kb3dubG9hZCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIn0
+vless://63d7155f-a53a-4573-84cf-532d35c8127c@139.59.125.84:42821?type=ws&host=m.zoom.us&path=/FREE by Tharuwa (0767597317)#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?type=ws&host=free-server.techsonic.ggff.net&path=/@Tech_Sonic#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://379c51c9-17f2-4970-ad01-e47f59842144@139.180.186.18:51141?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=7eaa4e29&pbk=a7n0a8J1lVEjU78xrfJCbGTMs7s_EsZHplIEs6Nu7CI#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://63d7155f-a53a-4573-84cf-532d35c8127c@139.59.125.84:42821?encryption=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?encryption=none&type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.43.27:2096?encryption=none&type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=tls&sni=free-server.techsonic.ggff.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
