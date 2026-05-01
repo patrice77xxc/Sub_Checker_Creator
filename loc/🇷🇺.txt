@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@185.22.154.51:60290#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@46.17.41.39:40412#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RW96aDRwc2RwcXl5MWs5VTV0eWtNRkY1@83.166.250.6:50529#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&security=reality&encryption=none&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&sni=www.m.vk.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
