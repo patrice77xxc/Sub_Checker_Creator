@@ -3,6 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA==@46.17.41.191:60129#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vruaz.mostserv.xyz&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.129.233.22:443?security=tls&type=ws&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
