@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.rocks&type=ws&allowInsecure=1&sni=sni.111000.v6.rocks#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
