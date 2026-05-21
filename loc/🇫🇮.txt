@@ -2,18 +2,18 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aUY1bll5VE1TUU5BYlBCREVjRWRr@109.107.182.229:51544#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@152.89.244.75:8443?security=reality&type=tcp&sni=www.vk.ru&fp=chrome&sid=421f9e3c&pbk=lfN9fmmMeh4znL74ZdEelvszEqf7600g3oeZMQc6G0Q&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://37c79fbe-861a-4725-a8e4-196e2d886e33@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=adedb70a7409&sni=www.mozilla.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&type=tcp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=88acba&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@152.89.244.75:8443?encryption=none&fp=&pbk=lfN9fmmMeh4znL74ZdEelvszEqf7600g3oeZMQc6G0Q&security=reality&sid=421f9e3c&sni=www.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?encryption=none&fp=&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&security=reality&sid=4b1b&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@185.216.71.204:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&security=reality&sid=d659da01fb94&sni=www.foxsports.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://baf498db-7039-4ba5-90df-d5f5e5c75331@107.181.147.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&security=reality&sid=8492240eab92&sni=www.hollywoodreporter.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://5e18094c-18b1-4198-b211-96b40518cecf@107.181.147.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.techradar.com&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=f6e197a0b9f2&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://027ddfdf-59c3-4cce-b75a-d6cec7ace390@89.125.37.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mO8C8IMouuBMVJA63JnS4xcdY7knrc7Hg_IclJR_MnE&security=reality&sid=75&sni=www.nvidia.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://6c364976-715e-4454-a2e4-0ff6db9c522d@fl-4-direct.djarbnet.ru:443?encryption=none&type=ws&host=fl-4-direct.djarbnet.ru&path=%2Fgetupdates&security=tls&sni=fl-4-direct.djarbnet.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
