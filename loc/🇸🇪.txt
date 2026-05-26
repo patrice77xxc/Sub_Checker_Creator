@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b198c7e4-b6a5-4309-ac0e-0783cf8b129c@193.168.197.76:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Pyn-CZrKJEIoM7mcj__Eosc4F03CpqvwRZEqlJzqOnQ&security=reality&sid=e6df8954df22&sni=www.ya.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://33296019-52c4-46ef-9b97-c71fba9402cb@193.168.197.76:8443?encryption=none&type=grpc&security=reality&pbk=rTsS1Q9hWR7yAL_7Cbf2oWGl3bxHTEIXQtTdSkEJI2k&sni=www.sony.com&sid=972981cbe7f3df80#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://33296019-52c4-46ef-9b97-c71fba9402cb@193.168.197.76:8443?encryption=none&fp=chrome&pbk=rTsS1Q9hWR7yAL_7Cbf2oWGl3bxHTEIXQtTdSkEJI2k&security=reality&sid=972981cbe7f3df80&sni=www.sony.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
