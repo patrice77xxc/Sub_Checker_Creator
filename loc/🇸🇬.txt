@@ -2,18 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:80#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwNyIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://39039c78-41a2-45f1-a64d-f6818efcae03@172.104.161.138:27420?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=m.zoom.us&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&type=tcp&sni=node1.nanonet.host&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?encryption=none&type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
