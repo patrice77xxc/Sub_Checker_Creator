@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?encryption=none&fp=&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&security=reality&sid=d5d0&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?encryption=none&type=tcp&security=reality&sni=yahoo.com&allowInsecure=1&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&sid=d5d0#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?encryption=none&fp=&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&security=reality&sid=bf05&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?encryption=none&type=tcp&security=reality&sni=yahoo.com&allowInsecure=1&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&sid=bf05#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4

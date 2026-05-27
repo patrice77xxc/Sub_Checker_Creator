@@ -2,9 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4@ru.safepass.click:442#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://3af11c26-c589-4a9c-b811-f068d741a877@193.163.203.76:50580?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ot_qLvMZOPCyVWFt0w8pC-nZT9RRzkdqNFtRtGpB220&security=reality&sid=93290645e01c92f4&sni=kinopoisk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ&security=reality&sid=b7ca855a4763a7ac&sni=api-maps.yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://44fcf3b7-7baf-4b73-9f50-9f47967f7b29@193.163.203.76:50556?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tqZ-C6M7YzjR_sJ-V3OgU3tLUAv-KnJ9BQfIYfnVOHo&security=reality&sid=23a3dee422d0cd1c&sni=api-maps.yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://c5563e04-daff-4fea-a8ce-8741ad0bc2cf@193.163.203.76:50547?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZAqXfcXRYWRBjEYJQInYWkFSKTSbd7NXg66D7MUZ2wg&security=reality&sid=03d0fa9716a73af2&sni=kinopoisk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://d18a0f18-d5bd-43c1-bc08-e208473f30d8@193.163.203.76:50573?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NcouT_UbeS3uAcbckd8QXzoTFpiFdlglgHOnhwy76Cg&security=reality&sid=7b873acc934a727d&sni=api-maps.yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://44fcf3b7-7baf-4b73-9f50-9f47967f7b29@193.163.203.76:50556?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tqZ-C6M7YzjR_sJ-V3OgU3tLUAv-KnJ9BQfIYfnVOHo&security=reality&sid=23a3dee422d0cd1c&sni=api-maps.yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://3af11c26-c589-4a9c-b811-f068d741a877@193.163.203.76:50580?security=reality&type=tcp&sni=kinopoisk.ru&fp=chrome&flow=xtls-rprx-vision&sid=93290645e01c92f4&pbk=ot_qLvMZOPCyVWFt0w8pC-nZT9RRzkdqNFtRtGpB220&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://c5563e04-daff-4fea-a8ce-8741ad0bc2cf@193.163.203.76:50547?security=reality&type=tcp&sni=kinopoisk.ru&fp=chrome&flow=xtls-rprx-vision&sid=03d0fa9716a73af2&pbk=ZAqXfcXRYWRBjEYJQInYWkFSKTSbd7NXg66D7MUZ2wg&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l12.l-itx.info:7443?encryption=none&fp=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&serviceName=xyz&sni=colorlib.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
