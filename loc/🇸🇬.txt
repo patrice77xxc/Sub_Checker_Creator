@@ -2,11 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?allowInsecure=0&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0IjoiNjAwNCIsInR5cGUiOiJub25lIiwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJ0bHMiOiIifQ
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0Ijo2MDA0LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJhZGQiOiJ5ZDMuYWluaXZwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWQzLmFpbml2cC5jb20iLCJpZCI6IjkyMDRhZmNkLTAyNmUtNzgxZi0xYWJjLWMwM2VmYWJkMTM0NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiMzM0MDIiLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJhZGQiOiJ5ZDMuYWluaXZwLmNvbSIsImFpZCI6MCwiaG9zdCI6InlkMy5haW5pdnAuY29tIiwiaWQiOiI5MjA0YWZjZC0wMjZlLTc4MWYtMWFiYy1jMDNlZmFiZDEzNDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6MzM0MDIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?encryption=none&type=tcp&headerType=none&security=tls&sni=node1.nanonet.host#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&security=reality&sid=9b1cdc34dd5664&sni=www.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
