@@ -3,15 +3,18 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0Ijo2MDA0LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0IjoiNjAwNCIsImlkIjoiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@52.77.224.71:443?allowInsecure=1&encryption=none&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@84.32.22.143:443?security=reality&type=tcp&sni=maps.apple.com&fp=random&flow=xtls-rprx-vision&sid=2da4299da566b7&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.40.229:2096?security=tls&type=ws&path=%2F%40Tech_Sonic&host=free-server.techsonic.ggff.net&sni=free-server.techsonic.ggff.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@194.102.181.43:2053?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&security=reality&sid=fef8dcb8cafe30&sni=www.tesla.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@50.114.55.14:10001?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=2afe4310&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?encryption=none&type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.43.27:2096?encryption=none&type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=tls&sni=free-server.techsonic.ggff.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://0b69e501-28c8-4d44-f1f5-b36942226db6@47.82.183.252:56231?encryption=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
