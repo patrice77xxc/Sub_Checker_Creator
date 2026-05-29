@@ -2,8 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@194.87.39.215:8388#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?path=/ws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&type=ws&host=185.255.95.247&path=%2Fws&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?encryption=none&type=ws&host=alphacdn.alphashops.shop&path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=alphacdn.alphashops.shop#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&type=ws&host=185.255.95.247&path=%2Fws&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.39.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?path=%2Fws&security=&encryption=none&host=185.255.95.247&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
