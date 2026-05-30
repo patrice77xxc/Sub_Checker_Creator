@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://f7047044-9b40-4380-bbb1-4b8b01d8bb59@cdn-se-1.bigbossvpn.online:8443?security=reality&encryption=none&pbk=RBSJ-K9Ytm8PU_lz9H6O0Uz57lX4uufRJvPxZWM3riE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=098ae2a04a95cf8d#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

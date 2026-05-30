@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?security=reality&encryption=none&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=92d0c4089b6c1da3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&alpn=channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE

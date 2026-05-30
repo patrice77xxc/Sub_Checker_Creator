@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://eeb4db50-2bf3-404a-b35c-dfab76be6c73@45.12.136.165:39623?encryption=none&type=grpc&serviceName=grpc&security=reality&pbk=VL0iGpMFbUNIZsqUIwjDCorX5HzhVihlQUR8T3QSens&sni=vk.com&sid=fd#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&type=tcp&sni=googdas.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&sid=132c271e21324e36&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://04600c5d-97ad-49fa-8eec-6c081f4981b0@45.12.136.165:40285?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-h15uIzFS1x8R-Qv6-g1fN7vI5REzBIUc0ev5zL11lE&security=reality&sid=0a&sni=ozon.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://eeb4db50-2bf3-404a-b35c-dfab76be6c73@45.12.136.165:39623?encryption=none&fp=&pbk=VL0iGpMFbUNIZsqUIwjDCorX5HzhVihlQUR8T3QSens&security=reality&serviceName=grpc&sid=fd&sni=vk.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://eeb4db50-2bf3-404a-b35c-dfab76be6c73@45.12.136.165:39623?encryption=none&type=grpc&serviceName=grpc&security=reality&pbk=VL0iGpMFbUNIZsqUIwjDCorX5HzhVihlQUR8T3QSens&sni=vk.com&sid=fd#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
