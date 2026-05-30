@@ -2,14 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://8cddd533-9611-4fc4-adda-7d629743b4b2@school.vles.space:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=botapi.max.ru&fp=chrome&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&sid=099755ac7b731e9e&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?type=tcp&encryption=none&security=reality&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&fp=chrome&sni=www.yahoo.com&sid=d9029b790f10b2e2&spx=/&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTVhZjUwMGNiMjk1OTM1@149.102.144.110:18337#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
