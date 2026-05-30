@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJhZGQiOiI2NjU0YzczNGNjYWI4ZjQ0MGZmMDgyNWViNDQzZGM3Zi5xb3Mub25sIiwiaWQiOiI1MmY5Y2JmYi01YmIzLTNkZDMtYjk0Ny03MjVlMzY1YzU5ZjMiLCJwb3J0IjoiMTAxMjMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJ2MnByOWZlb2gwejg2YW5qMmd6OW9ubmpnOXZpdWV2MGoubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4eqIn0
-vless://f7047044-9b40-4380-bbb1-4b8b01d8bb59@cdn-se-1.bigbossvpn.online:8443?security=reality&encryption=none&pbk=RBSJ-K9Ytm8PU_lz9H6O0Uz57lX4uufRJvPxZWM3riE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=098ae2a04a95cf8d#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://33296019-52c4-46ef-9b97-c71fba9402cb@193.168.197.76:8443?type=grpc&security=reality&fp=chrome&pbk=rTsS1Q9hWR7yAL_7Cbf2oWGl3bxHTEIXQtTdSkEJI2k&sid=972981cbe7f3df80&sni=www.sony.com&spx=/&authority=&servicename=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://f7047044-9b40-4380-bbb1-4b8b01d8bb59@cdn-se-1.bigbossvpn.online:8443?security=reality&encryption=none&pbk=RBSJ-K9Ytm8PU_lz9H6O0Uz57lX4uufRJvPxZWM3riE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=098ae2a04a95cf8d#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
