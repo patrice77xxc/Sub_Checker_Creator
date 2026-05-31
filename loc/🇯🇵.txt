@@ -2,10 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0IjoiNjAwMyIsInR5cGUiOiJub25lIiwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJ0bHMiOiIifQ
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&fp=chrome&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click&fp=chrome&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0IjoiNjAwMyIsInR5cGUiOiJub25lIiwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsImFkZCI6IjE1NS4yNTQuMTI2LjI0OSIsInBvcnQiOjYwMDMsImlkIjoiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Imd0bS1zZy1jYzU0cTdkMXEwMS4zNjVjbG91ZDAyODUuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?path=/a12b0d31&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&type=ws&path=%2Fproxy&security=tls&sni=dongjing4.zqjsqapi.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?encryption=none&type=ws&path=%2Fa12b0d31&security=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5

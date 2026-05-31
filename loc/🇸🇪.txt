@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.237:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&security=reality&sid=bdac121c7debdaba&sni=www.microsoft.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&encryption=none&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=bdac121c7debdaba#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
