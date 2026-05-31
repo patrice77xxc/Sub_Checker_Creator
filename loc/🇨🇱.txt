@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?encryption=none&type=ws&security=tls&path=/livestreamcontent/&sni=top707762634.mwscdn.ru#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click&fp=chrome&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
