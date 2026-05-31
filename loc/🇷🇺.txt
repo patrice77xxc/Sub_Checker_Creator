@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.216:30129#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?mode=gun&security=reality&encryption=none&authority=&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru&sid=1fad87#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ca-1.omuvpn.tech:18543?security=reality&encryption=none&pbk=N6QQQTEXQaXI9PRxOYdlnsdviaLwu4eP4sIq9ifz5VM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.zvuk.com&sid=fb0839b3bc1d6e#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sni=5post-gate.x5.ru&sid=1fad87#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://cb44ce9f-18b1-49cd-a489-61892a7b8fce@v6.cloudconsole.ru:443?encryption=none&type=xhttp&mode=auto&host=vk.com&path=%2F&security=reality&fp=chrome&pbk=SQo6HHEMN-eGaCOdmN0_CX9F3cbCje4gVwuCrKh1MFU&sni=yandex.ru&sid=de&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://cb44ce9f-18b1-49cd-a489-61892a7b8fce@v6.cloudconsole.ru:443?mode=auto&path=/&security=reality&encryption=none&pbk=SQo6HHEMN-eGaCOdmN0_CX9F3cbCje4gVwuCrKh1MFU&host=vk.com&fp=chrome&spx=/&type=xhttp&sni=yandex.ru&sid=de#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://3af11c26-c589-4a9c-b811-f068d741a877@193.163.203.76:50580?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ot_qLvMZOPCyVWFt0w8pC-nZT9RRzkdqNFtRtGpB220&security=reality&sid=93290645e01c92f4&sni=kinopoisk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
