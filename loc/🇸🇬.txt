@@ -3,7 +3,20 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&security=reality&sid=9b1cdc34dd5664&sni=www.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?allowInsecure=0&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&headerType=none&type=tcp&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6Imd0bS1zZy1jYzU0cTdkMXEwMS4zNjVjbG91ZDAyODUuY29tIiwicG9ydCI6NjAwNCwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0IjoiNjAwNCIsInR5cGUiOiJub25lIiwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&security=reality&sid=9b1cdc34dd5664&sni=www.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?encryption=none&type=ws&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308?security=reality&type=tcp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=fef8dcb8cafe30&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?security=none&type=ws&path=/FREE By Tharuwa (0767597317)&host=m.zoom.us#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://4b79c2ed-528b-45e4-8997-e5d9de81e8e2@18.143.177.226:22472?security=reality&type=tcp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=45cb8dfc393d9191&pbk=DEvHMT3zhxUxnuqJxq88Z_8413kiseb7YtzU719D4kg&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vsgch.mostserv.xyz:443?security=reality&type=tcp&sni=vsgch.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&sid=226509f017e4c36d&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
