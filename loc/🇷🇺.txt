@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ca-1.omuvpn.tech:18543?security=reality&encryption=none&pbk=N6QQQTEXQaXI9PRxOYdlnsdviaLwu4eP4sIq9ifz5VM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.zvuk.com&sid=fb0839b3bc1d6e#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://33612cbf-0639-4285-81da-f88eba1d4f85@cloud.cdnru.net:443?security=tls&type=tcp&sni=cloud.cdnru.net&fp=chrome&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5994?security=reality&type=tcp&sni=surfvpn24.ru&fp=chrome&flow=xtls-rprx-vision&sid=c19de8fa&pbk=trrVBG2fDc411qxZQ8__7x6ZlJC4lI2m_mwl-O-BEjQ&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

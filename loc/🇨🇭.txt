@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?type=ws&path=%2Ftrj-ws&security=tls&sni=vpn1.rnmcnm.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?security=tls&type=ws&sni=vpn1.rnmcnm.com&path=/trj-ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:34129?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=iQnJ9plqBA9JIc8tnQGYaiuE3EnhOxl9jWGnVyJTWV0&sid=5d9b8a&spx=/IzM48KYB70DU5gQ&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:18921?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=www.booking.com&fp=chrome&pbk=1-7zKj1-3VrO684UVOk4FxaNzyPexU_tszVXRCmYX1I&sid=4be126c9c5b32ff6&spx=/tyIuXYgLPV7IHUi&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

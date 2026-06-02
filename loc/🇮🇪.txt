@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://228ecfd3-9bf0-42fd-a50e-581f84022513@78.17.198.65:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=09dnS8j39kek1dupFOV_NgLaQPwP46W8dAqt8IaTO1Y&security=reality&sid=3862f5&sni=www.ozone.nl&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
+vmess://eyJhZGQiOiI5MS4yNTAuMjQ5LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJyb290ZmFjZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yb290ZmFjZSIsInBvcnQiOiIxMTE5NiIsInBzIjoiaGFtZWRwNzE6OvCfh67wn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
