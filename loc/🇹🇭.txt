@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vmess://eyJhZGQiOiJ0aDEudnBuamFudGl0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxMDIwZjQ4Ni01ZTMwLTExZjEtOWI5Yi1iYjBlNDNjMjQyYmIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjEwMDAwIiwicHMiOiJoYW1lZHA3MTo68J+HufCfh60iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.12.38:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&flow=&sni=api.digital-help-prd.autodesk.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
