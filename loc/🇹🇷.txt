@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HtyIsImFkZCI6IjUuMTg4LjE5MC4yNTIiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIxIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
 vless://54897d1b-0b4f-47eb-afb3-f8100985033b@oldbridge.oakvalley.digital:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bWkUF_xQmpm5JyoapyYhWq_WLwubqVA6DuwCfJgnOyc&security=reality&sid=ed7c0d5905faae7a&sni=&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://ed748c87-4201-4210-872e-f77265c27fde@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/&host=SoftNetConnectcdn.sep-vpn.site&sni=SoftNetConnectcdn.sep-vpn.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://15115772-74b5-4c9b-9049-d7237a9c68f9@37.221.79.69:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=kSqgT4C5AcpCMLdW1VCvFSiv5UX6UDLaF33ECFpzUgQ&sni=www.yahoo.com&sid=41&spx=%2F#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
