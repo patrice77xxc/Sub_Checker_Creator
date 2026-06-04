@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://07ab8a15-a4a5-4a03-92b4-4e6a2e9aa5e7@lithuania.boot-lee.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
