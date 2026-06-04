@@ -2,14 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206Yzc3MGEyNG5aSll2@194.87.10.139:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJwb3J0IjoiNjAwNCIsInR5cGUiOiJub25lIiwiaWQiOiJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&security=reality&sid=9b1cdc34dd5664&sni=www.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://b9eef4fb-1a50-4bd2-ced3-7caba7a465e4@162.159.141.236:443?encryption=none&type=ws&host=newspeedbypass.wt4p2ppro.me&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=newspeedbypass.wt4p2ppro.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://b9eef4fb-1a50-4bd2-ced3-7caba7a465e4@162.159.141.236:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=newspeedbypass.wt4p2ppro.me&fp=chrome&type=ws&sni=newspeedbypass.wt4p2ppro.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://afbe9207-eb8f-4e39-898a-d78fb3eddd0a@news.zoom.us:2096?encryption=none&type=ws&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=primelinelk.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://b9eef4fb-1a50-4bd2-ced3-7caba7a465e4@162.159.141.236:443?encryption=none&type=ws&host=newspeedbypass.wt4p2ppro.me&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=newspeedbypass.wt4p2ppro.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?encryption=none&type=ws&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=primelinelk.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
