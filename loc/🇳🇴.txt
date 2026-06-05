@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?type=tcp&security=reality&fp=chrome&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&sid=d5d0&sni=yahoo.com&spx=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
