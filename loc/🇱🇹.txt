@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?flow=xtls-rprx-vision&fp=chrome&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&security=reality&sid=132c271e21324e36&sni=googdas.scroogethebest.com&spx=/&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
