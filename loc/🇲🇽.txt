@@ -3,5 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?allowInsecure=1&sni=www.jewelapp.click#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
+trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?security=tls&sni=www.jewelapp.click&fp=chrome&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?security=tls&encryption=none&sni=ul-mexico1.09vpn.com&fp=chrome&type=ws&host=ul-mexico1.09vpn.com&path=%2fvless%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&fp=chrome&insecure=1&type=ws&host=ul-mexico1.09vpn.com&path=/vless/#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
