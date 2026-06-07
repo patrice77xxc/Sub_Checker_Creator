@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6c6bb37a-3315-45bc-88d6-0fbba043c07f@87.239.108.241:443?security=reality&encryption=none&pbk=EZ9ZUwrabGCJfowEvD4fI0ANMsxYh7hchEAbsnOTl0s&headerType=none&fp=chrome&spx=/fPFepC78nvVF69L&type=tcp&sni=api.cockroachservice.ru&sid=803367e3aceaa5e1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg==@46.29.163.200:20129#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

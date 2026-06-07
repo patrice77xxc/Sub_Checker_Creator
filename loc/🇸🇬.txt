@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://acf3950e-c867-4f30-b4bf-0efcb5195af0@143.198.223.118:53327?encryption=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJhZGQiOiIxYjI2NzYxOWM0ODEyY2M0NmVlMjgxNzQ3ODg0Y2E1MC5xb3Mub25sIiwiYWlkIjowLCJob3N0IjoiMWIyNjc2MTljNDgxMmNjNDZlZTI4MTc0Nzg4NGNhNTAucW9zLm9ubCIsImlkIjoiNTJmOWNiZmItNWJiMy0zZGQzLWI5NDctNzI1ZTM2NWM1OWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEwMDM0LCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InYycHI5ZmVvaDB6ODZhbmoyZ3o5b25uamc5dml1ZXYwai5tb2Jnc2xiLnRiY2FjaGUuY29tIn0
