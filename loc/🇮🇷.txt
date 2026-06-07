@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?encryption=none&type=ws&host=gre.greentab.ir&path=%2Fws&security=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7

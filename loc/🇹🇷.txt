@@ -2,12 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@213.142.132.169:443?security=reality&type=tcp&packetEncoding=none&sni=www.stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://f9bcf1fb-252f-4577-8051-8aab0f867b8b@38.180.104.152:14135?encryption=none&type=httpupgrade&host=www.google.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?encryption=none&type=ws&host=onnevpn.dibaux.ir&path=%2Fstream&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://a566934d-1191-4304-b312-feebee678111@38.180.104.152:21077?encryption=none&type=ws&host=www.google.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://15115772-74b5-4c9b-9049-d7237a9c68f9@37.221.79.69:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=kSqgT4C5AcpCMLdW1VCvFSiv5UX6UDLaF33ECFpzUgQ&sni=www.yahoo.com&sid=41&spx=%2F#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://ec5074dd-ea94-474e-8a2d-489ad6e84ab9@172.64.154.21:8880?encryption=none&type=ws&host=bgp.minefun.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?encryption=none&type=ws&host=onnevpn.dibaux.ir&path=%2Fstream&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://1ed6f429-9d32-4769-a318-ca74135558d2@cedan.royalv.shop:443?encryption=none&type=ws&host=cloud3.royalv.shop&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cloud3.royalv.shop#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?encryption=none&type=ws&host=alphacdn.alphashops.shop&path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=alphacdn.alphashops.shop#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://a566934d-1191-4304-b312-feebee678111@38.180.104.152:21077?encryption=none&type=ws&host=www.google.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
