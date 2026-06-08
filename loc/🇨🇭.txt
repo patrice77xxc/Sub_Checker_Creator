@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?encryption=none&type=ws&host=azsv3.ir5ive.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?encryption=none&type=ws&host=azsv3.ir5ive.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=&encryption=none&host=azsv3.ir5ive.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
