@@ -3,10 +3,30 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&alpn=http/1.1&host=www.creationlong.org&fp=chrome&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@81.255.155.10:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&insecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://e19966ec-7628-5252-89d2-43b5d4e51264@pl-1.illusion-vpn.ru:443?security=reality&encryption=none&pbk=ExcIQDzOvrpzbDgbLufmt33F-ObNGHXx6rjEvzn76jI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pl-1.illusion-vpn.ru&sid=2e83619c7975b870#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?Telegram=@kurdconfig&Telegram=@kurdconfig&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?security=reality&encryption=none&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.kinopoisk.ru&sid=a987b6bd1781daa3#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@31.56.188.90:7443?security=reality&type=tcp&sni=mi.com&fp=chrome&flow=xtls-rprx-vision&sid=be0ce047&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?security=reality&encryption=none&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=67fb#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&type=grpc&security=reality&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sni=vk.ru&sid=b5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?encryption=none&type=ws&host=panel.dibaux.ir&path=%2Fstream&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
