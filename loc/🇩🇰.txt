@@ -3,6 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=none&encryption=none&host=45.148.31.0&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.28.236.192:8443?encryption=none&type=ws&host=linek.perry.us.kg&path=%2Fprograms&security=tls&sni=linek.perry.us.kg#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0

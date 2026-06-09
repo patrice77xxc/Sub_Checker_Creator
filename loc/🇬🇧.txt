@@ -7,13 +7,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#ham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTVhZjUwMGNiMjk1OTM1@149.102.144.110:18337#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiJ1azUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODkzNzFkZmMtMjYxOC00MGQ3LWE1NTgtNjkzZmY0ZjdmMWViIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoidWs1LnRhc2tmbG93aHViLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://44b3ee72-cffb-4d66-ab7c-3138b9bdeeef@54.36.162.217:443?security=reality&alpn=h2&encryption=none&pbk=upTVUrc_t7xF1ULni8pHRDhRES1sT4BDm1r8rugTzyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=ff815f58c7e77aa9#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?encryption=none&type=httpupgrade&host=mci.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?encryption=none&type=httpupgrade&host=mci.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
