@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&security=reality&sid=d1e9faa1b2c3&sni=download.spectrum.vu&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
