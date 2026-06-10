@@ -2,9 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwicG9ydCI6IjM2NzAzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwicG9ydCI6IjQ0ODY3Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://c00ae81e-68dc-4951-aeea-c495f32f91a5@another-cf.dnsyes.kawaii520.icu:443?mode=multi&security=tls&encryption=none&type=ws&fp=chrome&sni=dfs8545fads4ds5.another-appleid.ccwu.cc&path=/&host=dfs8545fads4ds5.another-appleid.ccwu.cc&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allow_insecure=0&fp=chrome&security=tls&sni=hkg1.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
