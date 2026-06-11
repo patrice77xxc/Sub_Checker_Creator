@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?type=ws&host=node1.bw8848.org&path=%2Fnode1-node1-5sczzi&security=tls&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiIxYjI2NzYxOWM0ODEyY2M0NmVlMjgxNzQ3ODg0Y2E1MC5xb3Mub25sIiwiYWlkIjowLCJob3N0IjoiMWIyNjc2MTljNDgxMmNjNDZlZTI4MTc0Nzg4NGNhNTAucW9zLm9ubCIsImlkIjoiNTJmOWNiZmItNWJiMy0zZGQzLWI5NDctNzI1ZTM2NWM1OWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEwMDM0LCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InYycHI5ZmVvaDB6ODZhbmoyZ3o5b25uamc5dml1ZXYwai5tb2Jnc2xiLnRiY2FjaGUuY29tIn0
+vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?encryption=none&security=tls&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

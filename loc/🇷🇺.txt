@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@85.239.40.249:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&sni=ru.locklance.lol&sid=4fccf1f98f04c7bb&spx=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
