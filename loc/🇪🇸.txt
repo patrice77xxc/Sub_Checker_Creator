@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWk5Sd3pZTjJxR3NQN2pxVGR2cHE1azZqM2c3aFUyZGJNNExrZDNuOVVveDMyNGluZjZQUFVpaDJRbzl3ZlhFb0dOQ0JoZERzclZ1dExtbXZVWmloTXNtc3VHcE11N1I=@94.131.127.154:48877#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&encryption=none&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.ru&sid=8237eb#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&type=tcp&packetEncoding=none&sni=www.vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=8237eb&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@es2.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8

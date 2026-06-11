@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@104.27.24.252:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://a9d3f77943aeee7d4dc3fa073c1797d8@8.6.112.17:443?type=ws&security=tls&host=crm.lotussec.com&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&sni=crm.lotussec.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://Telegram-Modvpn7@193.232.178.78:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=26adc84e61c1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
