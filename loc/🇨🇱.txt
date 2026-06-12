@@ -2,9 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
 vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
-vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
 vless://7270612b-49f6-4b04-999c-34d8263da767@216.24.57.1:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=picassooo.info#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
+vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&type=ws&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
