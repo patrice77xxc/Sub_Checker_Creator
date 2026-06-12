@@ -4,15 +4,19 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@81.255.155.10:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&insecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?Telegram=@kurdconfig&Telegram=@kurdconfig&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.101:4443?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://446b69aa-90b4-408b-b853-f70895343834@bypass.pl-dp-01.online:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://cfe007e3-f264-4403-b834-70d82e26cade@94.125.102.111:7443?security=reality&encryption=none&pbk=8scIVVv78H2lFNiBh4wbB0bnHJ2PVd91DO1WQYIsl1A&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=0e8c77184f7fb76c#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&type=grpc&security=reality&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sni=vk.ru&sid=b5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

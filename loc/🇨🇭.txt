@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?encryption=none&fp=chrome&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&security=reality&sid=accd8c&sni=varzesh3.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?encryption=none&fp=&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&security=reality&sid=accd8c&sni=varzesh3.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

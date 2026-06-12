@@ -4,4 +4,3 @@
 
 vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?security=reality&sni=yahoo.com&fp=chrome&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&sid=bf05&spx=/&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&alpn=channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&sid=bf05#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443?type=tcp&security=reality&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&fp=chrome&sni=yahoo.com&sid=d5d0&spx=/#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
