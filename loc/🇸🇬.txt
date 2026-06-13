@@ -2,12 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=/node1-node1-5sczzi#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=%2fnode1-node1-5sczzi&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?type=ws&host=node1.bw8848.org&path=%2Fnode1-node1-5sczzi&security=tls&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoi8J+HuPCfh6wgU0cgMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MTgwMDAsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwic2N5IjpudWxsLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=/node1-node1-5sczzi#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?path=/node1-node1-5sczzi&security=tls&insecure=0&host=node1.bw8848.org&type=ws&allowInsecure=0&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://70252937-5c61-4fb0-8656-d1a16261b795@172.66.40.229:2096?encryption=none&type=ws&host=group.shalana.xyz&path=%2Fshalana&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=group.shalana.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?type=ws&security=tls&host=group.shalana.xyz&path=/shalana&sni=group.shalana.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://f232a803-ff05-4219-b16f-b4dc8497b938@54.151.254.107:46799?security=reality&encryption=none&pbk=inxRtKQbaiuz18TGXqdYu0dyO_RplIhR7MDZ6rL42UA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=af0d579034a74916#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://452da0f8-3034-4e5d-9e7f-9c3f58abb8ff@122.248.202.201:45075?security=reality&encryption=none&pbk=l6Z-68Q2EJ8nZ5mzWSAB53lp1-_nOHwV2Z18y3DT7xQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7185b14179922a5c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://0ff7989d-59b3-4cbd-a2e4-960ac02fb2f1@46.137.225.209:32946?security=reality&encryption=none&pbk=zdEghV1Mt50wCSUBZSd601DSMoX4KBTfcKWZ2_mYTBk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=984d9ea72b9e81#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?encryption=none&type=ws&host=group.shalana.xyz&path=%2Fshalana&security=tls&sni=group.shalana.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
