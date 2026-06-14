@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?path=/node1-node1-5sczzi&security=tls&insecure=0&host=node1.bw8848.org&type=ws&allowInsecure=0&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?security=tls&sni=node1.bw8848.org&type=ws&host=node1.bw8848.org&path=%2fnode1-node1-5sczzi#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://70252937-5c61-4fb0-8656-d1a16261b795@172.66.40.229:2096?encryption=none&type=ws&host=group.shalana.xyz&path=%2Fshalana&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=group.shalana.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
