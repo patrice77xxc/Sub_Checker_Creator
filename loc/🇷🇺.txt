@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://509dec94-cc08-4351-9ce8-811e76e092c3@31.76.6.138:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=DbpNCOTF5G7L5lGDBUtoiUNsZ_eoKwUgZX__Xhu4nEc&security=reality&sid=add6bfff300435ac&sni=console.cloud.yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
