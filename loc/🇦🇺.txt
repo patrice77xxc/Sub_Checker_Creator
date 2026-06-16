@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?path=/ws-79dffb8106db&security=tls&insecure=0&host=vpn5.rnmcnm.com&type=ws&allowInsecure=0&sni=vpn5.rnmcnm.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=1b665f78655294&spx=%2F&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA

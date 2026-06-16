@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-trojan://EbsKv_weudqnr7-Zfld6F06M8HzO671%2B9c@103.208.85.4:443?type=tcp&security=tls&headerType=none&sni=103.208.85.4&fp=chrome&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%BF
-trojan://EbsKv_weudqnr7-Zfld6F06M8HzO671%2B9c@103.208.85.4:443?sni=103.208.85.4&peer=103.208.85.4&security=tls#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%BF
-trojan://EbsKv_weudqnr7-Zfld6F06M8HzO671%2B9c@103.208.85.4:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%BF
