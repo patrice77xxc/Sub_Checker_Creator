@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B6
-trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B6
 trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B6
+trojan://bNpSPq25FqLYblE9xl_Zpaq43o1iEmrcOW@130.94.97.140:443?security=tls&sni=www.static-optimizer.click&path=/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B6
