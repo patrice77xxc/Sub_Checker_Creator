@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?encryption=none&type=grpc&serviceName=vless-grpc&security=reality&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&sni=yahoo.com#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://b7200562-bdb1-4774-91b4-f0f2b9f3d3c0@185.252.177.125:8443?&security=reality&flow=xtls-rprx-vision&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&fp=chrome&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=/#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?flow=xtls-rprx-vision&fp=chrome&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&security=reality&sid=5fc027d907f46ee9&sni=www.microsoft.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
