@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2,http/1.1&host=107.189.7.176&sni=107.189.7.176&path=/ws&insecure=0&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?encryption=none&type=ws&host=107.189.7.176&path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=107.189.7.176#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://00f7f9c6-70cf-4a50-a9bf-08c77229251b@107.189.7.176:443?fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2,http/1.1&host=107.189.7.176&sni=107.189.7.176&path=/ws&insecure=0&encryption=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
