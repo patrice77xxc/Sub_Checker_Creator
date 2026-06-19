@@ -3,17 +3,13 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?type=tcp&headerType=none&security=tls&encryption=none&sni=130.94.78.17&insecure=0#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?type=tcp&security=tls&headerType=none&sni=130.94.78.17&fp=chrome&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?sni=130.94.78.17&peer=130.94.78.17&security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?encryption=none&type=ws&host=t02.tzteam.online&path=%2F%3Fed%3D2048&security=tls&fp=firefox&sni=t02.tzteam.online#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vmess://eyJhZGQiOiJ1azUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiODkzNzFkZmMtMjYxOC00MGQ3LWE1NTgtNjkzZmY0ZjdmMWViIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?type=tcp&encryption=none&security=reality&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&fp=chrome&sni=www.yahoo.com&sid=d9029b790f10b2e2&spx=/&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&host=t01.tzteam.online&fp=chrome&type=ws&sni=t01.tzteam.online#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
